@@ -3,7 +3,7 @@
 
 ## Latest version
 
-v0.1.0
+[0.1.0](slow5-v0.1.0.pdf)
 
 
 

@@ -37,7 +37,7 @@ Note that simplicity has been sometimes favoured over performance. For instance,
 
 ---
 
-In addition to the above, *S/BLOW5* also features extendability abd flexibility.
+In addition to the above, *S/BLOW5* also features extendability and flexibility.
 
 ## Extendibility
 -	Reserved bytes in the header allow adding features without breaking the backward compatibility. For instance, block-wise compression of the signal or partial decompression can be added if necessary.
@@ -49,7 +49,7 @@ In addition to the above, *S/BLOW5* also features extendability abd flexibility.
 -	slow5tools provides an interface similar to the familiar samtools and supports operations such as merge, split and view.
 -	slow5tools supports converting back and forth from *FAST5* and whatever replacement formats that come in future to replace *FAST5*. Binaries for slow5tools are provided so that the users can safely do the conversion on the computer attached to the sequencer. 
 
-Also, with the demise of Moore’s law, the computer architectures are moving toward domain-specific systems (See the [Turing lecture from Turing award Winners in 2018 Hennessy and Patterson](https://www.acm.org/hennessy-patterson-turing-lecture) who are the pioneers in computer architecture). So, we believe that having a domain-specific format than a general-purpose format will be the first step necessary for that.
+Also, with the demise of Moore’s law, the computer architectures are moving toward domain-specific systems (See the [Turing lecture from Turing award Winners in 2018 Hennessy and Patterson](https://www.acm.org/hennessy-patterson-turing-lecture) who are the pioneers in computer architecture). So, we believe that having a domain-specific format rather than a general-purpose format will be the first step necessary for that.
 
 
 ## Limitations

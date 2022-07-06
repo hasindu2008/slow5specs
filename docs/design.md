@@ -62,4 +62,4 @@ Also, with the demise of Moore’s law, the computer architectures are moving to
 As a final note, *S/BLOW5* is a community developed format and thus any [comments, suggestions, contributions, critiques and questions are welcome](https://github.com/hasindu2008/slow5specs/issues). 
 
 Last, but not least, see [Heng Li's comment](https://twitter.com/lh3lh3/status/1480937811171811331):
-![slow5_lh3](../img/Screenshot-2022-07-06-103208.png)
+![slow5_lh3](img/Screenshot-2022-07-06-103208.png)

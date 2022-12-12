@@ -35,7 +35,7 @@ Example of a SLOW5 ASCII file with multiple read groups:
 | <sub>…     </sub>             |   <sub>…     </sub>             | <sub>…</sub> | <sub>…</sub> |
 | <sub>#char\*   </sub>         | <sub>uint32\_t </sub>           | <sub>double</sub> | <sub>double</sub> | <sub>double</sub> | <sub>double</sub> | <sub>uint64\_t</sub> | <sub>int16\_t\* | <sub>...</sub> |
 | <sub>#read\_id   </sub>       | <sub>read\_group </sub>         | <sub>digitisation</sub> | <sub>offset</sub> | <sub>range</sub> | <sub>sampling\_rate</sub> | <sub>len\_raw\_signal</sub> | <sub>raw\_signal</sub> | <sub>... </sub>|
-| <sub>read-0</sub>     </sub>        | <sub>1    </sub>                | <sub>8192</sub> | <sub>6</sub> | <sub>1467.6</sub> | <sub>4000</sub> | <sub>4000</sub> | <sub>498,492,...</sub> | <sub>...</sub> |
+| <sub>read-0</sub>     | <sub>1    </sub>                | <sub>8192</sub> | <sub>6</sub> | <sub>1467.6</sub> | <sub>4000</sub> | <sub>4000</sub> | <sub>498,492,...</sub> | <sub>...</sub> |
 | <sub>read-1</sub>             | <sub>0  </sub>                  | <sub>8192</sub> | <sub>5</sub> | <sub>1467.6</sub> | <sub>4000</sub> | <sub>2000</sub> | <sub>491,491,...</sub> | <sub>...</sub> |
 | <sub>…</sub>                 | <sub>…  </sub>                  | <sub>…</sub> | <sub>…</sub> | <sub>…</sub> | <sub>…</sub> | <sub>…</sub> | <sub>…</sub> | <sub>...</sub> |
 | <sub>read-N</sub>             | <sub>2  </sub>                  | <sub>8192</sub> | <sub>3</sub> | <sub>1467.6</sub> | <sub>4000</sub> | <sub>3000</sub> | <sub>400,400,...</sub> | <sub>...</sub> |

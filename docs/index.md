@@ -8,7 +8,7 @@ A summary of the latest SLOW5 specification is [here](summary). For full specifi
 
 ## Archived versions
 
-[0.2.0](slow5-v0.2.0.pdf)
+[0.2.0](slow5-v0.2.0.pdf)</br>
 [0.1.0](slow5-v0.1.0.pdf)
 
 ___

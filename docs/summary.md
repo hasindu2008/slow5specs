@@ -1,6 +1,6 @@
 # Summary of SLOW5 ASCII format 
 
-This is just a summary of the latest version of SLOW5 ASCII file format (.slow5). For the full specification and information on SLOW5 binary (called BLOW5) format, refer to the PDF links [here](https://github.com/hasindu2008/slow5specs/blob/main/docs/index.md#latest-version).
+This is just a summary of the latest version of SLOW5 ASCII file format (.slow5). For the full specification and information on SLOW5 binary (called BLOW5) format, refer to the PDF links [here](https://hasindu2008.github.io/slow5specs#latest-version).
 
 A SLOW5 ASCII file is a plain text file that uses the American Standard Code for Information Interchange (ASCII) encoding (locale: C/POSIX, code set: US-ASCII).  The file extension is .slow5. A SLOW5 file contains a header followed by the sequencing data. An example structure of a SLOW5 ASCII file with a single read group is and an example structure of a SLOW5 ASCII with multiple read groups - i.e., multiple sequencing runs - is provided below. The column/row borders, spacing and cell colours are added to increase the readability. The actual format uses tabs (‘\t’) and newlines (‘\n’) as delimiters
 

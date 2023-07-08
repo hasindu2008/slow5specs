@@ -4,12 +4,12 @@ A summary of the latest SLOW5 specification is [here](summary). For full specifi
 
 ## Latest version
 
-[1.0.0](slow5-v1.0.0.pdf) *identical to 0.2.0
+[1.0.0](slow5-v1.0.0.pdf) (Note: 1.0.0 is identical to 0.2.0)
 
 ## Archived versions
 
-[0.2.0](slow5-v0.2.0.pdf)</br>
-[0.1.0](slow5-v0.1.0.pdf)
+- [0.2.0](slow5-v0.2.0.pdf)
+- [0.1.0](slow5-v0.1.0.pdf)
 
 ___
 
